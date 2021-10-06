@@ -1,6 +1,3 @@
-/* 
-Все что находится тут  - комент
-*/
 var myImage = document.querySelector('img');
 
 myImage.onclick = function() {
